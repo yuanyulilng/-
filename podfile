@@ -1,0 +1,6 @@
+platform:ios,'8.0'
+target 'NoteBook' do
+pod 'SQLiteSwift3'
+
+pod 'SnapKit'
+end

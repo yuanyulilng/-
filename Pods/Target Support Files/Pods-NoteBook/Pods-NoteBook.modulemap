@@ -1,0 +1,6 @@
+module Pods_NoteBook {
+  umbrella header "Pods-NoteBook-umbrella.h"
+
+  export *
+  module * { export * }
+}

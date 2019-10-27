@@ -1,0 +1,6 @@
+module SQLiteSwift3 {
+  umbrella header "SQLiteSwift3-umbrella.h"
+
+  export *
+  module * { export * }
+}
